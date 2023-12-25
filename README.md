@@ -1,7 +1,7 @@
 ## Hi there, I'm Sai! 👋
 
 ### About me:
-I'm a computer science/data science undergraduate student at Purdue University. I specialize in Machine Learning/Artificial Intelligence algorithms but I also have a lot of past experience with full stack software development as well! This summer I'll be going down the systems programming rabbit hole and I'm aiming to build an emulator by August. 
+I'm a computer science/data science undergraduate student at Purdue University. I specialize in Machine Learning/Artificial Intelligence algorithms but I also have a lot of past experience with full stack software development as well! 
 
 ### Contact:
 You can reach me via email at sai.c.coumar1@gmail.com or by adding me on discord at sc#1568. I'm always happy to talk about projects or answer questions about what I do. 
