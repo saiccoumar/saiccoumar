@@ -5,6 +5,8 @@ I'm a computer science/data science undergraduate student at Purdue University. 
 
 ### Contact:
 You can reach me via email at sai.c.coumar1@gmail.com or by adding me on discord at sc#1568. I'm always happy to talk about projects or answer questions about what I do. 
+
+<meta name="google-site-verification" content="_kEeJpdCn3PTOdeQZqUOWVckfYBLznFqrcyQdlckI28" />
 <!--
 **saiccoumar/saiccoumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
