@@ -4,7 +4,7 @@
 I'm a computer science/data science undergraduate student at Purdue University. I specialize in Machine Learning/Artificial Intelligence algorithms but I also have a lot of past experience with full stack software development as well! 
 
 ### Contact:
-You can reach me via email at sai.c.coumar1@gmail.com or by adding me on discord at sc#1568. I'm always happy to talk about projects or answer questions about what I do. 
+You can reach me via email @ sai.c.coumar1@gmail.com or by adding me on discord @ beausai. I'm always happy to talk about projects or answer questions about what I do. 
 
 #### Read some of my articles @ https://medium.com/@saicoumar !!
 
