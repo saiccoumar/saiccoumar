@@ -4,7 +4,7 @@
 I'm a computer science PhD Student @ Purdue University studying GPU-accelerated robotics. I have a background in Machine Learning/Artificial Intelligence, full-stack SWE, and Systems and Networking. In general, I am particularly fascinated by system-level optimizations of algorithms for high performance large-scale computing problems. 
 
 ### Contact:
-You can reach me via email @ sai.c.coumar1@gmail.com or by adding me on discord @ beausai. I'm always happy to talk about projects or answer questions about what I do. 
+You can reach me via email @ sai.c.coumar1@gmail.com or by adding me on discord @ saiccoumar. I'm always happy to talk about projects or answer questions about what I do. 
 
 #### Read some of my articles @ https://medium.com/@saicoumar !!
 
